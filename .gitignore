@@ -48,5 +48,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Ignore .csv files
-*.csv
+# Ignore week2.csv
+week2.csv
